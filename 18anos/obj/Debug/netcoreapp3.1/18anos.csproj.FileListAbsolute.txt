@@ -1,0 +1,14 @@
+C:\Users\tiago\source\repos\18anos\18anos\bin\Debug\netcoreapp3.1\18anos.exe
+C:\Users\tiago\source\repos\18anos\18anos\bin\Debug\netcoreapp3.1\18anos.deps.json
+C:\Users\tiago\source\repos\18anos\18anos\bin\Debug\netcoreapp3.1\18anos.runtimeconfig.json
+C:\Users\tiago\source\repos\18anos\18anos\bin\Debug\netcoreapp3.1\18anos.runtimeconfig.dev.json
+C:\Users\tiago\source\repos\18anos\18anos\bin\Debug\netcoreapp3.1\18anos.dll
+C:\Users\tiago\source\repos\18anos\18anos\bin\Debug\netcoreapp3.1\18anos.pdb
+C:\Users\tiago\source\repos\18anos\18anos\obj\Debug\netcoreapp3.1\18anos.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\18anos\18anos\obj\Debug\netcoreapp3.1\18anos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\18anos\18anos\obj\Debug\netcoreapp3.1\18anos.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\18anos\18anos\obj\Debug\netcoreapp3.1\18anos.AssemblyInfo.cs
+C:\Users\tiago\source\repos\18anos\18anos\obj\Debug\netcoreapp3.1\18anos.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\18anos\18anos\obj\Debug\netcoreapp3.1\18anos.dll
+C:\Users\tiago\source\repos\18anos\18anos\obj\Debug\netcoreapp3.1\18anos.pdb
+C:\Users\tiago\source\repos\18anos\18anos\obj\Debug\netcoreapp3.1\18anos.genruntimeconfig.cache
